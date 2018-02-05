@@ -8,6 +8,17 @@
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
 }
+.col-1 {
+  width: 66%;
+}
+
+.col-8 {
+  width: 66%;
+}
+
+.col-4 {
+  width: 34%;
+}
 
 .clearfix:after {
   content: ".";
@@ -23,5 +34,3 @@
 }
 
 /* Posititoning Classes */
-
-
