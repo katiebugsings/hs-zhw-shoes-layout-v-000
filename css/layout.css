@@ -13,10 +13,12 @@
 }
 
 .col-8 {
+  float: left;
   width: 60%;
 }
 
 .col-4 {
+  float: left;
   width: 29%;
 }
 
