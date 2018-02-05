@@ -20,6 +20,8 @@
 .col-4 {
   float: right;
   width: 29%;
+  margin-left: 25px;
+  margin-top: 25px;
 }
 
 .clearfix:after {
