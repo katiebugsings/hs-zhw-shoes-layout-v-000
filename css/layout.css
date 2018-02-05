@@ -8,6 +8,9 @@
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
 }
+.row {
+  clear: both;
+}
 
 .col-8 {
   width: 66%;
